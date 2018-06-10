@@ -1,7 +1,7 @@
 
-Do not copy try by yourself 
+Do not copy try things by yourself!!
 # The following Topics are covered 
-This repository contains some Data structure algorithem implementations
+This repository contains some Data structure algorithem implementations done by me.
 Following contains only solutions with problem as file name and problem statements will be added soon to solution files.
 ## Array
 * [Array](https://github.com/milrim/Algo-Wiki/tree/master/Array)
