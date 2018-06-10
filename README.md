@@ -1,4 +1,5 @@
 
+Do not copy try by yourself 
 # The following Topics are covered 
 This repository contains some Data structure algorithem implementations
 Following contains only solutions with problem as file name and problem statements will be added soon to solution files.
@@ -34,5 +35,5 @@ Give examples
 Give an example
 ```
 
-Do not copy try by yourself 
+
 
