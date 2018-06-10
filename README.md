@@ -8,10 +8,6 @@ Following contains only solutions with problem as file name and problem statemen
 
 ## String 
 * [Strings](https://github.com/milrim/Algo-Wiki/tree/master/Strings)
-
-```
-Give examples
-```
 ## Heap
 * [Heap](https://github.com/milrim/Algo-Wiki/tree/master/Heap)
 ## Queue
