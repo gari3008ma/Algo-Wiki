@@ -26,7 +26,7 @@ Give examples
 ## Linklist
 * [Linklist](https://github.com/milrim/Algo-Wiki/tree/master/Linklist)
 ## Greedy Algorithm
-* [Point Update Range Query](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/binary_indexed_tree.cpp)
+* [Point Update Range Query]()
 ## Matrix
 * [Matrix](https://github.com/milrim/Algo-Wiki/tree/master/Matrix)
 ### Break down into end to end 
