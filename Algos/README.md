@@ -1,0 +1,2 @@
+# Finoramic
+Some of codes
