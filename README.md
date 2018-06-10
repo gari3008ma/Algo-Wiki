@@ -29,27 +29,10 @@ Give examples
 * [Point Update Range Query](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/binary_indexed_tree.cpp)
 ## Matrix
 * [Matrix](https://github.com/milrim/Algo-Wiki/tree/master/Matrix)
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+### Break down into end to end 
 ```
 Give an example
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
 
