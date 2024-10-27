@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int findcoe(int coef[],int start,int end,int rhs)
 {

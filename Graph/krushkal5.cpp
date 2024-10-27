@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 typedef pair<int,int> ipair;
 struct disjoint

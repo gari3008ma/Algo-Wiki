@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 bool findindex(int arr[],int sum,queue<int> q,int n)
 {

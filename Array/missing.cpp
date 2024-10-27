@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 #include<stdlib.h>
 using namespace std;
 int m(int arr[],int s,int e)

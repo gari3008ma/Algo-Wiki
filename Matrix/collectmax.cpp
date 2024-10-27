@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int dp[100][100][2];
 bool isvalid(int i,int j,int n,int m)

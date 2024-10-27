@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define inf INT_MAX
 int search(int arr[],int n,bool vec[])

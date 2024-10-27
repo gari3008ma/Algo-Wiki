@@ -1,5 +1,5 @@
 // C++ program to find count of single valued subtrees
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
  
 // A Tree node

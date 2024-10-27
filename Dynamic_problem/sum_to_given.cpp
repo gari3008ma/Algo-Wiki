@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int count_path(int arr[10000],int n,int i,int sum)
 {

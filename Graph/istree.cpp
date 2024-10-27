@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 bool iscycle(vector<vector<int> > graph,bool visited[],int v,int parent)
 {

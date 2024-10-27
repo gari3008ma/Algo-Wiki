@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int n,n1,size1=0,size2=0,arr[1000];
 bool isfull1()

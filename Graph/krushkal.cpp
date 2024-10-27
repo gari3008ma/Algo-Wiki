@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 //#define pair<int,int> ipair
 pair<int,int> findp(map<pair<int,int>,int> mp)

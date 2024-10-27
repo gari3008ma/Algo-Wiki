@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 void srt(int arr[],int start1,int high1,int start2,int high2)
 {

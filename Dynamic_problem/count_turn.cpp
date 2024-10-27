@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int sum(int arr[10000],int n,int low,int high,int turn,int dp[1000][1000])
 {

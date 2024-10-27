@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define HASH_SIZE 128
 void Print2DArray(int *A, int nr, int nc)

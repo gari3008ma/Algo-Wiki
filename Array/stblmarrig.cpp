@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define n 4
 bool isprei(int w,int prefer[2*n][n],int m,int m1)

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define N 8
 bool  MATRIX[N][N] = {{0, 0, 1, 0},
