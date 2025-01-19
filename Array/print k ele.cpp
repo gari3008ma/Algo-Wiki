@@ -19,10 +19,10 @@ void maxutil(int arr[],int end,int index,int data[],int r,int i)
 void recur(int arr[],int start,int end,int r)
 {
 	int data[r];
-	maxutil(arr,start,end,index,data,r);
+	maxutil(arr,start,end,data,r,0);
 }
 int main()
-{
+
 	int t,n,i,j,arr[100],max_sum,current;
 	cin>>t;
      while(t--)

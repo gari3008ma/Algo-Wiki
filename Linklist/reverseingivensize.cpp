@@ -11,8 +11,11 @@ struct node *reverseu(struct node *head,int k)
        if(head==NULL)
           return head;
           int i;
-          struct node
-       while(head)
+          struct node;
+       while(head){
+
+       }
+       return head;
 }
 void push(struct node** head_ref, int new_key)
 {
@@ -37,7 +40,7 @@ int main()
          printf("%d ",tmp->key);
          tmp=tmp->next;
     }
-    tmp=duplicatel(head,3);
+    tmp=reverseu(head,3);
      printf("\n");
     while(tmp!=NULL)
     {

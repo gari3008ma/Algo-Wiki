@@ -31,7 +31,9 @@ bool ispalindrome(struct node *head)
 {
        struct node *tmp=findmid(head);
        struct node *vmp=reverseu(head,tmp);
-       while(vmp!=head && )
+       while(vmp!=head && ){
+        
+       }
 }
 void push(struct node** head_ref, char new_data)
 {

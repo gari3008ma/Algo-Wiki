@@ -35,9 +35,9 @@ Queue *createqueue(int val)
 	tmp->rear=NULL;
 	return tmp;
 }
-hash *createHash(int cap)
+Hash *createHash(int cap)
 {
-	struct hash * hshtabl=(struct Hash *)malloc(sizeof(struct Hash ));;
+	struct Hash * hshtabl=(struct Hash *)malloc(sizeof(struct Hash ));;
 	hshtabl->capacity = cap;
 	hshtabl->array = (struct QNode **)malloc(hshtabl->capacity*(sizeof(struct QNode)));
 	for(int i=0;i<hshtabl->capacity;i++)
@@ -63,7 +63,7 @@ bool isempty(struct Queue *qp)
 void dequeue(struct Hash *hsh,struct Queue *que)
 {
 	if(isempty(que))
-		return -1;
+		return ;
 	if(que->front==que->rear)
 		  {
 		  	que->front=NULL;
@@ -132,7 +132,7 @@ int main()
 	setlru(hsh,que,3);
 	setlru(hsh,que,4);
 	setlru(hsh,que,5);
-	 printf ("%d ", que->front->pagenumber);
+	printf ("%d ", que->front->pagenumber);
     printf ("%d ", que->front->next->pagenumber);
     printf ("%d ", que->front->next->next->pagenumber);
     printf ("%d ", que->front->next->next->next->pagenumber);

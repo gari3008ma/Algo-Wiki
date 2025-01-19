@@ -11,8 +11,8 @@ struct node *reverseu(struct node *head,int k)
        if(head==NULL)
           return head;
           int i;
-          struct node
-       while(head)
+          struct node;
+      return head;
 }
 void push(struct node** head_ref, int new_key)
 {
