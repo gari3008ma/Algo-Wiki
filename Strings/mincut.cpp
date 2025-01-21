@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define m 50000
 bool ispal(string str)

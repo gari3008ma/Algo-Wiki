@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int rotate(int mat[50][50],int n,int m,int k)
 {

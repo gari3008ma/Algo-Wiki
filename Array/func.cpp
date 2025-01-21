@@ -1,13 +1,13 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
-int function(int x)
-{
+int functions(int x) {
 	return (x*x + 2*x -45);
 }
 int findpos(int i)
 {
-	while(function(i)<=0)
+	while(functions(i)<= 0){
 		i++;
+	}
 	return i;
 }
 int binary(int low,int high)
@@ -17,9 +17,9 @@ int binary(int low,int high)
 	else
 	{
 		int mid= (low+high)/2;
-		if(function(mid)>0 &&(function(mid-1)<0 || mid==low))
+		if(functions(mid)>0 &&(functions(mid-1)<0 || mid==low))
 			return mid;
-		else if(function(mid)>0)
+		else if(functions(mid)>0)
 			return binary(low,mid-1);
 		else 
 			return binary(mid+1,high);

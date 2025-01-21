@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 bool safe(int i,int j,int n,int m)
 {

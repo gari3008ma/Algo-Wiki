@@ -1,5 +1,5 @@
 // C++ Program to print Bottom View of Binary Tree
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
  
 // Tree node class

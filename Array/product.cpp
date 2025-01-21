@@ -1,5 +1,5 @@
 #include<iostream>
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int max(int a,int b)
 {

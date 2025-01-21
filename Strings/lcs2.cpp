@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 void lcsone(string str,string ptr)
 {

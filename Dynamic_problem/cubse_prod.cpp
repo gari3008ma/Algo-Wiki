@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int count(int arr[],int n,int k,int i)
 {

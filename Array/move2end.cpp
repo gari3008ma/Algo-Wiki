@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define NA -1
 int  movetoend(int mplusn[],int m1)

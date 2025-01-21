@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 
 int merg(int arr[],int tmp[],int low1,int mid,int high2)

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define NIL -1
 void dfs(vector<vector<int> > graph,int u,bool visited[],int parent[],int low[],int disc[])

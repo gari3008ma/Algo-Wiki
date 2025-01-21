@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 void dfs(vector<vector<int> > graph,int u,bool visited[],int * ind)
 {

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define INF 10000000
 void youngify(int mat[100][100],int i,int j,int n,int m)

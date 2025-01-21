@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 #include<map>
 /* A binary tree node has data, pointer to left child
    and a pointer to right child */

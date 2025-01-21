@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 int max_sum(int arr[10000],int n,int k,int s)
 {

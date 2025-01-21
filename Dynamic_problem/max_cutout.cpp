@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 
 int dp_sol(int n,int a,int b,int c)

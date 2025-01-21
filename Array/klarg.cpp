@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define rep(i,n) for(int i=0;i<n;i++)
 #define reps(i,a,n) for(int i=a;i<n;i++)

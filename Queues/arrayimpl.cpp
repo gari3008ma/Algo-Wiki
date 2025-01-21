@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int i,j,arr[100],n;
 int isempty()

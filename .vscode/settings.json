@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.options.statusBarVisibility": "visible",
+    "files.associations": {
+        "stdexcept": "cpp"
+    }
+}

@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
-#include <stdlib.h>
+#include <iostream>
+#include <cstdlib> // for malloc and free#include <stdlib.h>
 struct node
 {
     int data;

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 void printsort(int mat[100][100],int n,int s)
 {

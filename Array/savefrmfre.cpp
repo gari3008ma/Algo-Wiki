@@ -1,5 +1,5 @@
 #include<iostream>
-#include<bits/stdc++.h>
+ #include <iostream>
 using namespace std;
 #define reps(i,a,n) for(int i=a;i<n;i++)
 

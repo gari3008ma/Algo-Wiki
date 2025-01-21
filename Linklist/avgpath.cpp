@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include <cstdlib> // for malloc and free
+
 using namespace std;
 int main()
 {
